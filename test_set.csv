@@ -1,0 +1,226 @@
+Picture Path,Label,width,height
+./Multi-class Weather Dataset/Rain/rain20.jpg,Pluvieux,620,413
+./Multi-class Weather Dataset/Shine/shine216.jpg,Ensoleillé,230,153
+./Multi-class Weather Dataset/Cloudy/cloudy180.jpg,Nuageux,261,175
+./Multi-class Weather Dataset/Shine/shine53.jpg,Ensoleillé,284,177
+./Multi-class Weather Dataset/Rain/rain183.jpg,Pluvieux,630,446
+./Multi-class Weather Dataset/Rain/rain166.jpg,Pluvieux,259,194
+./Multi-class Weather Dataset/Sunrise/sunrise308.jpg,Lever du soleil,238,159
+./Multi-class Weather Dataset/Cloudy/cloudy76.jpg,Nuageux,183,275
+./Multi-class Weather Dataset/Sunrise/sunrise122.jpg,Lever du soleil,300,168
+./Multi-class Weather Dataset/Cloudy/cloudy161.jpg,Nuageux,231,154
+./Multi-class Weather Dataset/Cloudy/cloudy254.jpg,Nuageux,300,300
+./Multi-class Weather Dataset/Cloudy/cloudy241.jpg,Nuageux,300,157
+./Multi-class Weather Dataset/Rain/rain67.jpg,Pluvieux,800,533
+./Multi-class Weather Dataset/Rain/rain19.jpg,Pluvieux,634,422
+./Multi-class Weather Dataset/Shine/shine144.jpg,Ensoleillé,852,480
+./Multi-class Weather Dataset/Sunrise/sunrise202.jpg,Lever du soleil,1600,1053
+./Multi-class Weather Dataset/Shine/shine54.jpg,Ensoleillé,500,346
+./Multi-class Weather Dataset/Cloudy/cloudy150.jpg,Nuageux,1920,1080
+./Multi-class Weather Dataset/Sunrise/sunrise286.jpg,Lever du soleil,204,153
+./Multi-class Weather Dataset/Cloudy/cloudy249.jpg,Nuageux,284,160
+./Multi-class Weather Dataset/Cloudy/cloudy203.jpg,Nuageux,245,153
+./Multi-class Weather Dataset/Rain/rain121.jpg,Pluvieux,183,275
+./Multi-class Weather Dataset/Shine/shine251.jpg,Ensoleillé,302,170
+./Multi-class Weather Dataset/Sunrise/sunrise118.jpg,Lever du soleil,1440,900
+./Multi-class Weather Dataset/Shine/shine60.jpg,Ensoleillé,600,315
+./Multi-class Weather Dataset/Cloudy/cloudy270.jpg,Nuageux,238,158
+./Multi-class Weather Dataset/Sunrise/sunrise89.jpeg,Lever du soleil,640,428
+./Multi-class Weather Dataset/Sunrise/sunrise327.jpg,Lever du soleil,228,152
+./Multi-class Weather Dataset/Cloudy/cloudy80.jpg,Nuageux,350,200
+./Multi-class Weather Dataset/Sunrise/sunrise312.jpg,Lever du soleil,265,177
+./Multi-class Weather Dataset/Rain/rain158.jpg,Pluvieux,460,307
+./Multi-class Weather Dataset/Sunrise/sunrise144.jpg,Lever du soleil,300,168
+./Multi-class Weather Dataset/Cloudy/cloudy265.jpg,Nuageux,300,138
+./Multi-class Weather Dataset/Shine/shine179.jpg,Ensoleillé,280,175
+./Multi-class Weather Dataset/Cloudy/cloudy23.jpg,Nuageux,259,194
+./Multi-class Weather Dataset/Shine/shine64.jpg,Ensoleillé,800,426
+./Multi-class Weather Dataset/Sunrise/sunrise228.jpg,Lever du soleil,240,161
+./Multi-class Weather Dataset/Rain/rain184.jpg,Pluvieux,284,177
+./Multi-class Weather Dataset/Rain/rain98.jpg,Pluvieux,275,183
+./Multi-class Weather Dataset/Rain/rain57.jpg,Pluvieux,300,354
+./Multi-class Weather Dataset/Cloudy/cloudy217.jpg,Nuageux,233,175
+./Multi-class Weather Dataset/Cloudy/cloudy34.jpg,Nuageux,550,412
+./Multi-class Weather Dataset/Sunrise/sunrise56.jpg,Lever du soleil,800,450
+./Multi-class Weather Dataset/Sunrise/sunrise92.jpg,Lever du soleil,300,168
+./Multi-class Weather Dataset/Sunrise/sunrise213.jpg,Lever du soleil,316,480
+./Multi-class Weather Dataset/Cloudy/cloudy211.jpg,Nuageux,375,166
+./Multi-class Weather Dataset/Sunrise/sunrise235.jpg,Lever du soleil,220,165
+./Multi-class Weather Dataset/Cloudy/cloudy74.jpg,Nuageux,275,183
+./Multi-class Weather Dataset/Rain/rain151.jpg,Pluvieux,300,158
+./Multi-class Weather Dataset/Rain/rain103.jpg,Pluvieux,300,168
+./Multi-class Weather Dataset/Shine/shine32.jpg,Ensoleillé,189,267
+./Multi-class Weather Dataset/Sunrise/sunrise216.jpg,Lever du soleil,320,212
+./Multi-class Weather Dataset/Cloudy/cloudy246.jpg,Nuageux,223,168
+./Multi-class Weather Dataset/Cloudy/cloudy247.jpg,Nuageux,301,181
+./Multi-class Weather Dataset/Sunrise/sunrise76.jpg,Lever du soleil,275,183
+./Multi-class Weather Dataset/Cloudy/cloudy273.jpg,Nuageux,317,167
+./Multi-class Weather Dataset/Sunrise/sunrise242.jpg,Lever du soleil,233,161
+./Multi-class Weather Dataset/Sunrise/sunrise132.jpg,Lever du soleil,194,259
+./Multi-class Weather Dataset/Sunrise/sunrise131.jpg,Lever du soleil,1600,1200
+./Multi-class Weather Dataset/Cloudy/cloudy294.jpg,Nuageux,235,157
+./Multi-class Weather Dataset/Rain/rain136.jpg,Pluvieux,590,329
+./Multi-class Weather Dataset/Sunrise/sunrise55.jpg,Lever du soleil,500,282
+./Multi-class Weather Dataset/Sunrise/sunrise301.jpg,Lever du soleil,274,171
+./Multi-class Weather Dataset/Shine/shine43.jpg,Ensoleillé,299,168
+./Multi-class Weather Dataset/Shine/shine41.jpg,Ensoleillé,299,168
+./Multi-class Weather Dataset/Sunrise/sunrise339.jpg,Lever du soleil,225,169
+./Multi-class Weather Dataset/Rain/rain74.jpg,Pluvieux,250,225
+./Multi-class Weather Dataset/Cloudy/cloudy68.jpg,Nuageux,259,194
+./Multi-class Weather Dataset/Cloudy/cloudy46.jpg,Nuageux,194,259
+./Multi-class Weather Dataset/Sunrise/sunrise45.jpg,Lever du soleil,259,194
+./Multi-class Weather Dataset/Shine/shine92.jpg,Ensoleillé,936,526
+./Multi-class Weather Dataset/Sunrise/sunrise147.jpg,Lever du soleil,259,194
+./Multi-class Weather Dataset/Cloudy/cloudy71.jpg,Nuageux,600,254
+./Multi-class Weather Dataset/Shine/shine40.jpg,Ensoleillé,259,194
+./Multi-class Weather Dataset/Cloudy/cloudy32.jpg,Nuageux,255,198
+./Multi-class Weather Dataset/Rain/rain161.jpg,Pluvieux,680,365
+./Multi-class Weather Dataset/Cloudy/cloudy280.jpg,Nuageux,241,177
+./Multi-class Weather Dataset/Sunrise/sunrise243.jpg,Lever du soleil,248,166
+./Multi-class Weather Dataset/Cloudy/cloudy219.jpg,Nuageux,201,151
+./Multi-class Weather Dataset/Cloudy/cloudy27.jpg,Nuageux,1024,682
+./Multi-class Weather Dataset/Cloudy/cloudy83.jpg,Nuageux,852,480
+./Multi-class Weather Dataset/Sunrise/sunrise79.jpg,Lever du soleil,268,188
+./Multi-class Weather Dataset/Sunrise/sunrise336.jpg,Lever du soleil,244,163
+./Multi-class Weather Dataset/Shine/shine208.jpg,Ensoleillé,266,166
+./Multi-class Weather Dataset/Sunrise/sunrise356.jpg,Lever du soleil,300,168
+./Multi-class Weather Dataset/Rain/rain28.jpg,Pluvieux,700,415
+./Multi-class Weather Dataset/Sunrise/sunrise274.jpg,Lever du soleil,257,172
+./Multi-class Weather Dataset/Rain/rain101.jpg,Pluvieux,600,443
+./Multi-class Weather Dataset/Sunrise/sunrise188.jpg,Lever du soleil,275,183
+./Multi-class Weather Dataset/Shine/shine166.jpg,Ensoleillé,243,162
+./Multi-class Weather Dataset/Cloudy/cloudy88.jpg,Nuageux,299,168
+./Multi-class Weather Dataset/Shine/shine9.jpg,Ensoleillé,1600,1200
+./Multi-class Weather Dataset/Sunrise/sunrise81.jpg,Lever du soleil,3888,2592
+./Multi-class Weather Dataset/Cloudy/cloudy115.jpg,Nuageux,326,155
+./Multi-class Weather Dataset/Rain/rain56.jpg,Pluvieux,615,409
+./Multi-class Weather Dataset/Shine/shine148.jpg,Ensoleillé,232,174
+./Multi-class Weather Dataset/Rain/rain85.jpg,Pluvieux,1920,1080
+./Multi-class Weather Dataset/Cloudy/cloudy231.jpg,Nuageux,268,179
+./Multi-class Weather Dataset/Shine/shine81.jpg,Ensoleillé,320,480
+./Multi-class Weather Dataset/Shine/shine118.jpg,Ensoleillé,440,330
+./Multi-class Weather Dataset/Shine/shine146.jpg,Ensoleillé,840,560
+./Multi-class Weather Dataset/Sunrise/sunrise133.jpg,Lever du soleil,259,194
+./Multi-class Weather Dataset/Shine/shine142.jpg,Ensoleillé,450,300
+./Multi-class Weather Dataset/Shine/shine28.jpg,Ensoleillé,400,226
+./Multi-class Weather Dataset/Cloudy/cloudy1.jpg,Nuageux,600,400
+./Multi-class Weather Dataset/Shine/shine86.jpg,Ensoleillé,227,222
+./Multi-class Weather Dataset/Shine/shine10.jpg,Ensoleillé,168,300
+./Multi-class Weather Dataset/Shine/shine240.jpg,Ensoleillé,307,173
+./Multi-class Weather Dataset/Sunrise/sunrise101.jpg,Lever du soleil,620,400
+./Multi-class Weather Dataset/Cloudy/cloudy102.jpg,Nuageux,800,377
+./Multi-class Weather Dataset/Sunrise/sunrise250.jpg,Lever du soleil,220,165
+./Multi-class Weather Dataset/Rain/rain105.jpg,Pluvieux,259,194
+./Multi-class Weather Dataset/Rain/rain99.jpg,Pluvieux,275,183
+./Multi-class Weather Dataset/Rain/rain129.jpg,Pluvieux,700,415
+./Multi-class Weather Dataset/Rain/rain89.jpg,Pluvieux,276,183
+./Multi-class Weather Dataset/Cloudy/cloudy110.jpg,Nuageux,284,177
+./Multi-class Weather Dataset/Cloudy/cloudy208.jpg,Nuageux,269,168
+./Multi-class Weather Dataset/Cloudy/cloudy142.jpg,Nuageux,520,362
+./Multi-class Weather Dataset/Shine/shine191.jpg,Ensoleillé,257,161
+./Multi-class Weather Dataset/Rain/rain134.jpg,Pluvieux,275,183
+./Multi-class Weather Dataset/Shine/shine203.jpg,Ensoleillé,230,164
+./Multi-class Weather Dataset/Shine/shine215.jpg,Ensoleillé,273,182
+./Multi-class Weather Dataset/Cloudy/cloudy230.jpg,Nuageux,282,159
+./Multi-class Weather Dataset/Cloudy/cloudy204.jpg,Nuageux,283,177
+./Multi-class Weather Dataset/Rain/rain126.jpg,Pluvieux,595,335
+./Multi-class Weather Dataset/Rain/rain70.jpg,Pluvieux,299,168
+./Multi-class Weather Dataset/Sunrise/sunrise245.jpg,Lever du soleil,230,173
+./Multi-class Weather Dataset/Rain/rain173.jpg,Pluvieux,326,300
+./Multi-class Weather Dataset/Sunrise/sunrise50.jpg,Lever du soleil,225,225
+./Multi-class Weather Dataset/Shine/shine243.jpg,Ensoleillé,300,168
+./Multi-class Weather Dataset/Cloudy/cloudy100.jpg,Nuageux,259,194
+./Multi-class Weather Dataset/Sunrise/sunrise10.jpg,Lever du soleil,2304,1728
+./Multi-class Weather Dataset/Rain/rain68.jpg,Pluvieux,300,168
+./Multi-class Weather Dataset/Sunrise/sunrise99.jpg,Lever du soleil,283,178
+./Multi-class Weather Dataset/Sunrise/sunrise84.jpg,Lever du soleil,516,234
+./Multi-class Weather Dataset/Shine/shine99.jpg,Ensoleillé,261,193
+./Multi-class Weather Dataset/Shine/shine151.jpg,Ensoleillé,283,159
+./Multi-class Weather Dataset/Shine/shine117.jpg,Ensoleillé,300,168
+./Multi-class Weather Dataset/Shine/shine178.jpg,Ensoleillé,275,155
+./Multi-class Weather Dataset/Cloudy/cloudy170.jpg,Nuageux,245,155
+./Multi-class Weather Dataset/Cloudy/cloudy140.jpg,Nuageux,1000,750
+./Multi-class Weather Dataset/Shine/shine58.jpg,Ensoleillé,350,200
+./Multi-class Weather Dataset/Sunrise/sunrise234.jpg,Lever du soleil,248,166
+./Multi-class Weather Dataset/Rain/rain4.jpg,Pluvieux,275,183
+./Multi-class Weather Dataset/Rain/rain207.jpg,Pluvieux,600,600
+./Multi-class Weather Dataset/Rain/rain156.jpg,Pluvieux,185,273
+./Multi-class Weather Dataset/Sunrise/sunrise88.jpg,Lever du soleil,275,183
+./Multi-class Weather Dataset/Shine/shine156.jpg,Ensoleillé,244,151
+./Multi-class Weather Dataset/Shine/shine61.jpg,Ensoleillé,284,177
+./Multi-class Weather Dataset/Sunrise/sunrise348.jpg,Lever du soleil,271,181
+./Multi-class Weather Dataset/Sunrise/sunrise2.jpg,Lever du soleil,275,183
+./Multi-class Weather Dataset/Sunrise/sunrise230.jpg,Lever du soleil,214,176
+./Multi-class Weather Dataset/Shine/shine96.jpg,Ensoleillé,1000,667
+./Multi-class Weather Dataset/Rain/rain7.jpg,Pluvieux,259,194
+./Multi-class Weather Dataset/Shine/shine189.jpg,Ensoleillé,244,153
+./Multi-class Weather Dataset/Shine/shine182.jpg,Ensoleillé,300,167
+./Multi-class Weather Dataset/Sunrise/sunrise206.jpg,Lever du soleil,2048,844
+./Multi-class Weather Dataset/Sunrise/sunrise353.jpg,Lever du soleil,277,173
+./Multi-class Weather Dataset/Rain/rain2.jpg,Pluvieux,250,225
+./Multi-class Weather Dataset/Cloudy/cloudy138.jpg,Nuageux,275,183
+./Multi-class Weather Dataset/Cloudy/cloudy133.jpg,Nuageux,259,194
+./Multi-class Weather Dataset/Rain/rain197.jpg,Pluvieux,275,183
+./Multi-class Weather Dataset/Sunrise/sunrise240.jpg,Lever du soleil,230,173
+./Multi-class Weather Dataset/Cloudy/cloudy290.jpg,Nuageux,298,185
+./Multi-class Weather Dataset/Rain/rain130.jpg,Pluvieux,600,300
+./Multi-class Weather Dataset/Sunrise/sunrise354.jpg,Lever du soleil,203,153
+./Multi-class Weather Dataset/Sunrise/sunrise192.jpg,Lever du soleil,284,177
+./Multi-class Weather Dataset/Cloudy/cloudy227.jpg,Nuageux,236,177
+./Multi-class Weather Dataset/Sunrise/sunrise37.jpg,Lever du soleil,1140,709
+./Multi-class Weather Dataset/Sunrise/sunrise152.jpg,Lever du soleil,1920,1080
+./Multi-class Weather Dataset/Sunrise/sunrise236.jpg,Lever du soleil,266,178
+./Multi-class Weather Dataset/Shine/shine4.jpg,Ensoleillé,400,300
+./Multi-class Weather Dataset/Cloudy/cloudy89.jpg,Nuageux,852,480
+./Multi-class Weather Dataset/Sunrise/sunrise273.jpg,Lever du soleil,224,152
+./Multi-class Weather Dataset/Shine/shine150.jpg,Ensoleillé,283,159
+./Multi-class Weather Dataset/Cloudy/cloudy124.jpg,Nuageux,299,168
+./Multi-class Weather Dataset/Cloudy/cloudy38.jpg,Nuageux,768,508
+./Multi-class Weather Dataset/Rain/rain199.jpg,Pluvieux,651,445
+./Multi-class Weather Dataset/Cloudy/cloudy147.jpg,Nuageux,800,533
+./Multi-class Weather Dataset/Sunrise/sunrise85.jpg,Lever du soleil,299,168
+./Multi-class Weather Dataset/Sunrise/sunrise257.jpg,Lever du soleil,300,110
+./Multi-class Weather Dataset/Cloudy/cloudy297.jpg,Nuageux,270,178
+./Multi-class Weather Dataset/Sunrise/sunrise71.jpg,Lever du soleil,341,512
+./Multi-class Weather Dataset/Rain/rain148.jpg,Pluvieux,800,531
+./Multi-class Weather Dataset/Shine/shine73.jpg,Ensoleillé,640,359
+./Multi-class Weather Dataset/Cloudy/cloudy220.jpg,Nuageux,272,153
+./Multi-class Weather Dataset/Rain/rain128.jpg,Pluvieux,280,210
+./Multi-class Weather Dataset/Cloudy/cloudy262.jpg,Nuageux,206,155
+./Multi-class Weather Dataset/Cloudy/cloudy225.jpg,Nuageux,208,167
+./Multi-class Weather Dataset/Sunrise/sunrise77.jpg,Lever du soleil,1024,576
+./Multi-class Weather Dataset/Sunrise/sunrise305.jpg,Lever du soleil,266,178
+./Multi-class Weather Dataset/Rain/rain22.jpeg,Pluvieux,3500,2453
+./Multi-class Weather Dataset/Sunrise/sunrise166.jpg,Lever du soleil,212,238
+./Multi-class Weather Dataset/Sunrise/sunrise224.jpg,Lever du soleil,227,152
+./Multi-class Weather Dataset/Sunrise/sunrise128.jpg,Lever du soleil,284,177
+./Multi-class Weather Dataset/Shine/shine111.jpg,Ensoleillé,275,183
+./Multi-class Weather Dataset/Sunrise/sunrise78.jpg,Lever du soleil,768,1039
+./Multi-class Weather Dataset/Cloudy/cloudy281.jpg,Nuageux,209,155
+./Multi-class Weather Dataset/Shine/shine233.jpg,Ensoleillé,221,166
+./Multi-class Weather Dataset/Cloudy/cloudy242.jpg,Nuageux,231,174
+./Multi-class Weather Dataset/Shine/shine63.jpg,Ensoleillé,1000,667
+./Multi-class Weather Dataset/Shine/shine235.jpg,Ensoleillé,235,156
+./Multi-class Weather Dataset/Rain/rain154.jpg,Pluvieux,260,194
+./Multi-class Weather Dataset/Shine/shine163.jpg,Ensoleillé,266,166
+./Multi-class Weather Dataset/Sunrise/sunrise20.jpg,Lever du soleil,278,181
+./Multi-class Weather Dataset/Sunrise/sunrise22.jpg,Lever du soleil,557,900
+./Multi-class Weather Dataset/Sunrise/sunrise16.jpg,Lever du soleil,4261,3195
+./Multi-class Weather Dataset/Sunrise/sunrise325.jpg,Lever du soleil,244,170
+./Multi-class Weather Dataset/Shine/shine195.jpg,Ensoleillé,245,158
+./Multi-class Weather Dataset/Cloudy/cloudy116.jpg,Nuageux,1600,1200
+./Multi-class Weather Dataset/Shine/shine132.jpg,Ensoleillé,300,168
+./Multi-class Weather Dataset/Cloudy/cloudy232.jpg,Nuageux,305,172
+./Multi-class Weather Dataset/Rain/rain73.jpg,Pluvieux,360,270
+./Multi-class Weather Dataset/Sunrise/sunrise335.jpg,Lever du soleil,283,177
+./Multi-class Weather Dataset/Cloudy/cloudy81.jpg,Nuageux,275,183
+./Multi-class Weather Dataset/Rain/rain117.jpg,Pluvieux,1024,622
+./Multi-class Weather Dataset/Cloudy/cloudy55.jpg,Nuageux,1600,971
+./Multi-class Weather Dataset/Sunrise/sunrise214.jpg,Lever du soleil,320,240
+./Multi-class Weather Dataset/Sunrise/sunrise186.jpg,Lever du soleil,336,210
+./Multi-class Weather Dataset/Rain/rain41.jpg,Pluvieux,900,506
+./Multi-class Weather Dataset/Shine/shine192.jpg,Ensoleillé,168,162
+./Multi-class Weather Dataset/Cloudy/cloudy229.jpg,Nuageux,237,178
+./Multi-class Weather Dataset/Sunrise/sunrise302.jpg,Lever du soleil,237,158
+./Multi-class Weather Dataset/Shine/shine196.jpg,Ensoleillé,245,153
+./Multi-class Weather Dataset/Sunrise/sunrise106.jpg,Lever du soleil,1024,768
